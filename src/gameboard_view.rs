@@ -142,10 +142,10 @@ impl GameboardView {
         let str = ch.to_string();
         let text_image = Image::new_color(settings.text_color);
         let cell_size = settings.size / (::SIZE.0 as f64);
-        let font_size = self.settings.size as u32 / (::SIZE.0 as u32);
+        let font_size = self.settings.size as u32 / ((::SIZE.0 *2) as u32);
         let pos = [
             settings.position[0] + i as f64 * cell_size + font_size as f64 / 2.0 -
-                0.5 * (font_size * (str.len() - 1) as u32) as f64,
+                0.5 * (font_size * (str.len() - 1) as u32) as f64 + font_size as f64  ,
             settings.position[1] + j as f64 * cell_size + font_size as f64,
         ];
         for (index, char) in str.chars().enumerate() {

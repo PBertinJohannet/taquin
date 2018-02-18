@@ -1,0 +1,9 @@
+[package]
+name = "taquin"
+version = "0.1.0"
+authors = ["xahigoyez <pierre.bertin-johannet@orange.fr>"]
+
+[dependencies]
+rand = "*"
+time = "*"
+clap = "*"
