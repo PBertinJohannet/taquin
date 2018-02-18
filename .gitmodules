@@ -1,0 +1,3 @@
+[submodule "taquin"]
+	path = taquin
+	url = ./taquin
