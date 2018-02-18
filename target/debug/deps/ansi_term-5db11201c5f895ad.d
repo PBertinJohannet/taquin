@@ -1,0 +1,12 @@
+/home/pierre/Documents/prog/rust/fifteen-gui/target/debug/deps/libansi_term-5db11201c5f895ad.rlib: /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/lib.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/ansi.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/style.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/difference.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/display.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/write.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/windows.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/debug.rs
+
+/home/pierre/Documents/prog/rust/fifteen-gui/target/debug/deps/ansi_term-5db11201c5f895ad.d: /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/lib.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/ansi.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/style.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/difference.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/display.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/write.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/windows.rs /home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/debug.rs
+
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/lib.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/ansi.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/style.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/difference.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/display.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/write.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/windows.rs:
+/home/pierre/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.10.2/src/debug.rs:

@@ -1,0 +1,13 @@
+[package]
+authors = ["xahigoyez <pierre.bertin-johannet@orange.fr>"]
+name = "fifteen-gui"
+version = "0.1.0"
+[dependencies]
+taquin = { path = "./taquin" }
+piston = "*"
+piston2d-graphics = "*"
+piston2d-opengl_graphics = "*"
+pistoncore-glutin_window = "*"
+time = "*"
+rand = "*"
+
