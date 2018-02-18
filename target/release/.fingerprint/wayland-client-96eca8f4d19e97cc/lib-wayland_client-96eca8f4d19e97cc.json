@@ -1,1 +1,0 @@
-{"rustc":17623976161629326538,"features":"[\"cursor\", \"default\", \"dlopen\", \"egl\", \"wayland-sys\"]","target":16127980146210794264,"profile":1821645278138830359,"path":12036969815586038201,"deps":[["bitflags v0.9.1",3590206997477038961],["libc v0.2.36",14332526028235154140],["wayland-sys v0.9.10",1020795335542569090]],"local":[{"Precalculated":"0.9.10"}],"rustflags":[]}
